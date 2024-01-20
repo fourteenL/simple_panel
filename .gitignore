@@ -11,8 +11,7 @@ lerna-debug.log*
 dist
 dist-ssr
 *.local
-.__pycache__/*
-*__pycache__/*
+*.pyc
 
 # Editor directories and files
 .vscode
